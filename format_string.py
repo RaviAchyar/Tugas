@@ -1,0 +1,1 @@
+print("{:^12} | {:^35} | {:^23} |". format('Nim', 'Nama', 'Prodi'))
